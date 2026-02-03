@@ -1,6 +1,6 @@
 ---
 name: subway-map
-author: edwinarbus
+author: edwin-arbus
 description: Visualize a codebase as a subway map. Stations = files/modules, tracks = imports/exports, lines = folders/domains.
 version: 0.1.0
 inputs:
