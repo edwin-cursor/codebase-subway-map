@@ -17,7 +17,7 @@ tools:
 output:
   format: markdown
   constraints:
-    - Output exactly one image prompt (3–10 lines).
+    - Do not stop after writing the prompt. Always trigger image generation by calling Nano Banana Pro with a GenerateImage tool request.
 ---
 
 # Subway Map
