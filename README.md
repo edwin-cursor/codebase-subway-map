@@ -6,15 +6,7 @@ This agent skill generates an image prompt designed for **Cursor’s built-in Na
 
 ## Install in Cursor
 
-1. Open **Cursor**
-2. Click **Cursor** in the **top-left**
-3. Go to **Settings**
-4. Open **Cursor Settings**
-5. In **Rules**, click **+ New**
-6. Select **Add from GitHub**
-7. Paste this repo URL into the top bar:
-
-`https://github.com/edwin-cursor/codebase-subway-map.git`
+- Run this command: `/create-skill https://raw.githubusercontent.com/edwin-cursor/codebase-subway-map/refs/heads/main/SKILL.md`
 
 ## Use
 
